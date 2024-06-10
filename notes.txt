@@ -1,0 +1,10 @@
+ 	* operator in c#
+1. Arithmetihc operator. =>   + , -, *, /
+2. Logical operator. =>       LOGICAL AND &,LOGICAL OR |,LOGICAL NOT !
+3. Bitwise operator. 
+4. relational operator. => EQUAL = , NOT != , GREATER THAN >, SMALLER THAN <, GREATER THAN EQUAL TO >=, SMALLER THAN EQUAL TO <=.
+5. Assigmnet operator.
+6. Conditional operator.
+
+
+

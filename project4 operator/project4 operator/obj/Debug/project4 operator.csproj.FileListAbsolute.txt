@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Dotnet\project4 operator\project4 operator\bin\Debug\project4 operator.exe.config
+C:\Users\Admin\Desktop\Dotnet\project4 operator\project4 operator\bin\Debug\project4 operator.exe
+C:\Users\Admin\Desktop\Dotnet\project4 operator\project4 operator\bin\Debug\project4 operator.pdb
+C:\Users\Admin\Desktop\Dotnet\project4 operator\project4 operator\obj\Debug\project4 operator.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Dotnet\project4 operator\project4 operator\obj\Debug\project4 operator.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dotnet\project4 operator\project4 operator\obj\Debug\project4 operator.exe
+C:\Users\Admin\Desktop\Dotnet\project4 operator\project4 operator\obj\Debug\project4 operator.pdb
