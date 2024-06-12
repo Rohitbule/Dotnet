@@ -1,0 +1,12 @@
+1. what is dotnet? explian its features.
+2. explain differnece between object and class?
+3. what are the main component od dotnet?
+4. what is clr? comman language runtime
+5. what are the difference between manage and unmanage code?
+6. what is asp dotnet? how c# support dotnet?
+7. what is auo dotnet?
+8. what are difference between c and c#?
+9.explain different types of operator? explain with a program boxing and unboxing operator?
+10. expalin the concept of garbage collection in .net?
+
+
