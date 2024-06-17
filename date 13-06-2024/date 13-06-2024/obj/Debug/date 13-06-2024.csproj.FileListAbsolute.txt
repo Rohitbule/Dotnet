@@ -1,0 +1,7 @@
+C:\Users\Admin\Desktop\Dotnet\date 13-06-2024\date 13-06-2024\bin\Debug\date 13-06-2024.exe.config
+C:\Users\Admin\Desktop\Dotnet\date 13-06-2024\date 13-06-2024\bin\Debug\date 13-06-2024.exe
+C:\Users\Admin\Desktop\Dotnet\date 13-06-2024\date 13-06-2024\bin\Debug\date 13-06-2024.pdb
+C:\Users\Admin\Desktop\Dotnet\date 13-06-2024\date 13-06-2024\obj\Debug\date 13-06-2024.csproj.AssemblyReference.cache
+C:\Users\Admin\Desktop\Dotnet\date 13-06-2024\date 13-06-2024\obj\Debug\date 13-06-2024.csproj.CoreCompileInputs.cache
+C:\Users\Admin\Desktop\Dotnet\date 13-06-2024\date 13-06-2024\obj\Debug\date 13-06-2024.exe
+C:\Users\Admin\Desktop\Dotnet\date 13-06-2024\date 13-06-2024\obj\Debug\date 13-06-2024.pdb

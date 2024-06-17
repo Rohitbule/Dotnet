@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Admin\\Desktop\\Dotnet\\oop\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BB96F43B-7A18-4E0B-8D6D-12298CBC5068}|oop\\oop.csproj|c:\\users\\admin\\desktop\\dotnet\\oop\\oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BB96F43B-7A18-4E0B-8D6D-12298CBC5068}|oop\\oop.csproj|solutionrelative:oop\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Admin\\Desktop\\Dotnet\\oop\\oop\\Program.cs",
+              "RelativeDocumentMoniker": "oop\\Program.cs",
+              "ToolTip": "C:\\Users\\Admin\\Desktop\\Dotnet\\oop\\oop\\Program.cs",
+              "RelativeToolTip": "oop\\Program.cs",
+              "ViewState": "AQIAAAUAAACA//////8gwBEAAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-06-17T05:07:28.599Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
